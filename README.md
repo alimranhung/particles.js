@@ -14,6 +14,7 @@ CodePen demo: <br />
 http://codepen.io/VincentGarreau/pen/pnlso
 
 -------------------------------
+### `Bootstrap 4 not supported but Bootstrap 3 support`
 ### `Usage`
 
 Load particles.js and configure the particles:
