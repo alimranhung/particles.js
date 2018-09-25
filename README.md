@@ -25,7 +25,7 @@ Load particles.js and configure the particles:
 <script src="particles.js"></script>
 ```
 ### `How to use CSS`
-`
+```
 #particles-js canvas {
     position: absolute;
     top: 0;
@@ -35,7 +35,7 @@ Load particles.js and configure the particles:
 #particles-js {
     position: relative;
 }
-`
+```
 **app.js**
 ```javascript
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
