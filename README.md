@@ -20,7 +20,7 @@ Load particles.js and configure the particles:
 
 **Call for index.html**
 ```html
-<div id="particles-js"></div>
+<div class="your-element" id="particles-js">.....</div>
 
 <script src="particles.js"></script>
 <script src="app.js"></script>
