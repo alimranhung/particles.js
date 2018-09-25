@@ -22,7 +22,7 @@ Load particles.js and configure the particles:
 ```html
 <div class="your-element" id="particles-js">.....</div>
 
-<script src="particles.js"></script>
+<script src="particles.min.js"></script>
 <script src="app.js"></script>
 ```
 ### `How to use CSS`
